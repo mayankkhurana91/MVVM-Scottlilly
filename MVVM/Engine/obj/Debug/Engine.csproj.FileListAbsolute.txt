@@ -1,0 +1,6 @@
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\Engine\bin\Debug\Engine.dll
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\Engine\bin\Debug\Engine.pdb
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\Engine\obj\Debug\Engine.dll
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\Engine\obj\Debug\Engine.pdb

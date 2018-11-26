@@ -1,0 +1,15 @@
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\bin\Debug\MVVM.exe.config
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\bin\Debug\MVVM.exe
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\bin\Debug\MVVM.pdb
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.csprojAssemblyReference.cache
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MainWindow.g.cs
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\App.g.cs
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MainWindow.baml
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.g.resources
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.exe
+D:\Self Practice\MVVM-Blogs-MSDN\MVVM\MVVM\obj\Debug\MVVM.pdb
